@@ -23,4 +23,7 @@ public class Dummy {
   public String sayHello() {
     return "Hello";
   }
+  public String sayBye() {
+    return "Bye";
+  }
 }
